@@ -15,6 +15,9 @@
     </gap:config-file>
 
     <name>bunnydash</name>
+    <description>
+        A multiplayer Bunny Dash game.
+    </description>
     <author email="nikolaos.souris@gmail.com">
         nikolaos.souris@gmail.com
     </author>
