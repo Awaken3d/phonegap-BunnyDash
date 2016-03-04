@@ -1,2 +1,2 @@
-# phonegap-tictactoe
-Phonegap wrapper for tictactoe
+# phonegap-BunnyDash
+Phonegap wrapper for BunnyDash
